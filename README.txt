@@ -1,7 +1,7 @@
 ******************************************************************************
 ******************************************************************************
 ******************************************************************************
-                           # DePYsitary-Hunt
+                           # Depositary_Hunt
 ******************************************************************************
 ******************************************************************************
 ******************************************************************************
@@ -23,7 +23,7 @@ Ce repo est principalement constitué de 5 fichiers ou dossiers :
 - Le dossier streamlit que nous avons élaboré afin de réaliser une 
   présentation intéractive de notre projet; 
 
-- Le rapport final du projet intitulé 'Rapport_projet_DEPYSITARY_HUNT'. 
+- Le rapport final du projet intitulé 'Rapport_projet_DEPOSITARY_HUNT'. 
 
 ******************************************************************************
 
